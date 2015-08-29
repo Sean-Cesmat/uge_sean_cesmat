@@ -1,3 +1,6 @@
+# If you delete your .get file you loose your commits
+# Hidden files begin with a dot to remove clutter in your normal ls
+
 cd
 history | less
 man history
