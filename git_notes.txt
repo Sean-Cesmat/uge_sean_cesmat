@@ -1,0 +1,8 @@
+git config: set configurations values of git
+git init: initalizes a new empty git repo
+git log: shows history of commits
+git status: shows you status of current git repo and suggests things to do
+git add: stages changes for commits, or adds them to the index
+git branch: creats a new branch but doesn't switch to it
+git commit: takes a snapshop of the current state of the code.
+git checkout: switches branches
