@@ -1,0 +1,133 @@
+cd
+history | less
+man history
+history
+history -r
+cd ..
+cd /
+subl . 
+pwd
+ls -Sl
+ls -S
+man ls
+ls -i
+mac ls
+ls -r
+ls -t
+ls -alt
+ls
+cd ~/Downloads/
+git config --global user.name 
+git config --global user.email
+echo $EDITOR
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email "sean.cesmat@gmail.com"
+git config --global user.name "Sean Cesmat"
+git --version
+echo $PATH
+subl /etc/paths
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew into fish
+fish_update_completions 
+curl -fsSL http://git.io/beJs | ruby
+curl -fsSl http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+brew install FORMULA...
+brew help
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+sudo xcodebuild -license
+ls -g
+li -g
+uname
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app --nointeraction
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install OS X Yosemite.app --nointeraction
+git config --global user.name "Sean"
+$ git config --global user.name "Sean"
+guide
+o
+run git
+r git
+node desktop/node/helloworld.js
+node /desktop/node/helloworld.js
+node helloworld.js
+node
+node -v
+defaults write com.apple.finder CreateDesktop -bool true && killall Finder
+defaults write com.apple.finder CreateDesktop -bool false && killall Finder
+SUDO defaults write com.apple.Finder AppleShowAllFiles no; killall Finder
+SUDO defaults write com.apple.Finder AppleShowAllFiles YES; killall Finder
+ls -l moving_around.txt 
+ls -t
+ls -lrt
+ls
+history > moving_around.txt
+cd
+history | less
+man history
+history
+history -r
+cd ..
+cd /
+subl . 
+pwd
+ls -Sl
+ls -S
+man ls
+ls -i
+mac ls
+ls -r
+ls -alt
+cd ~/Downloads/
+git config --global user.name 
+git config --global user.email
+echo $EDITOR
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email "sean.cesmat@gmail.com"
+git config --global user.name "Sean Cesmat"
+git --version
+echo $PATH
+subl /etc/paths
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew into fish
+fish_update_completions 
+curl -fsSL http://git.io/beJs | ruby
+curl -fsSl http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+brew install FORMULA...
+brew help
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+sudo xcodebuild -license
+ls -g
+li -g
+uname
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app --nointeraction
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install OS X Yosemite.app --nointeraction
+git config --global user.name "Sean"
+$ git config --global user.name "Sean"
+guide
+o
+run git
+r git
+node desktop/node/helloworld.js
+node /desktop/node/helloworld.js
+node helloworld.js
+node
+node -v
+defaults write com.apple.finder CreateDesktop -bool true && killall Finder
+defaults write com.apple.finder CreateDesktop -bool false && killall Finder
+SUDO defaults write com.apple.Finder AppleShowAllFiles no; killall Finder
+SUDO defaults write com.apple.Finder AppleShowAllFiles YES; killall Finder
